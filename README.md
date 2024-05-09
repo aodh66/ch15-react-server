@@ -2,7 +2,7 @@
 
 ## Live site
 
-<https://react-app-codalong.vercel.app/>
+<https://magnificent-kringle-441279.netlify.app//>
 
 ## App that I borrowed code from
 
